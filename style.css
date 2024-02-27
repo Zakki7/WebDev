@@ -1,0 +1,42 @@
+body{
+    background-color : aqua;
+}
+div{
+       background-color: aliceblue;    
+        margin: auto; 
+        padding-bottom: 200px;
+        width: 20%;
+        padding: 20px;
+        margin-top: 200px;
+        box-shadow: 80%;
+}
+button {
+    color: white;
+    width : 40%;
+    background-color: rgb(149, 213, 160);
+    padding: 10px;
+    border-radius: 10px; 
+    border : none; 
+    margin-top: 20px
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+input{
+    color: rgb(160, 54, 54);
+    width : 90%;
+    background-color: rgb(234, 234, 234);
+    padding: 10px;
+    border-radius: 10px; 
+    border : none; 
+    margin-top: 20px;
+}
+.sign{
+    color: white;
+    width :90%;
+    background-color: rgb(149, 213, 160);
+    padding: 10px;
+    border-radius: 10px; 
+    border : none; 
+    margin-top: 20px
+}
